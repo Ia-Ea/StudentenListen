@@ -1,0 +1,37 @@
+ul {
+    list-style-type: none;
+}
+
+.list-group-item {
+    padding: lrem;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
+
+.list-group-item:nth-child(even) {
+    background-color: lightgray ;
+}
+
+thead{
+    background-color: #a1e395;
+    color : 'black';
+}
+
+.td{
+    padding : 1 rem
+}
+
+
+.btn{
+    padding:0.5 ram 1rem;
+    border : none;
+    outline : none;
+    border-radius: 5px;
+
+}
+
+.btn-primary{
+    background-color: #c80e99;
+    color: white;
+}
